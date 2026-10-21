@@ -1,0 +1,66 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Home page of the National Conference on Emerging Technologies.">
+<title>Home | National Conference on Emerging Technologies</title>
+</head>
+<body>
+<header id="home">
+<h1>Department of Master of Business Administration (MBA)</h1>
+<p>SRM TRP Engineering College, Tiruchirappalli</p>
+<nav aria-label="Primary">
+<ul>
+<li><a href="index.html" aria-current="page">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="programme.html">Programme</a></li>
+<li><a href="register.html">Register</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="evidence.html">Unit 1 Evidence</a></li>
+</ul>
+</nav>
+</header>
+<main id="main-content">
+<section id="welcome">
+<h2>Learn it. Share it. Shape it.</h2>
+<figure>
+<img src="images/biz-banner.svg" alt="Banner showing a rising bar chart for the National Conference on Emerging
+ Technologies" width="1000" height="300">
+<figcaption>Figure 1: Researchers and students present papers on emerging technologies.</figcaption>
+</figure>
+<p>The Department of Master of Business Administration (MBA) invites students, researchers and professionals to the
+ <strong>National Conference on Emerging Technologies</strong>.
+Delegates present papers and learn about <em>artificial intelligence, blockchain, data analytics and digital
+ transformation</em>.</p>
+</section>
+<section id="highlights">
+<h2>Highlights</h2>
+<ul>
+<li>Two-day event: inauguration and paper presentations on Day 1, workshop on Day 2</li>
+<li>Oral and poster presentations on emerging technologies</li>
+<li>Keynote talks by academic and industry experts</li>
+<li>Hands-on workshop, certificates and best paper awards</li>
+</ul>
+</section>
+<section id="explore">
+<h2>Explore the event</h2>
+<ol>
+<li><a href="about.html">Read about the conference, objectives and facilities</a></li>
+<li><a href="programme.html">View the event schedule table</a></li>
+<li><a href="contact.html">Find our address and office hours</a></li>
+</ol>
+<p><a href="register.html"><strong>Register as an author or delegate</strong></a> to join the event.</p>
+</section>
+<aside>
+<h2>Event tour</h2>
+<video controls width="640" height="360" preload="metadata" poster="images/tour-poster.svg">
+<source src="media/conference-tour.webm" type="video/webm">
+<source src="media/conference-tour.mp4" type="video/mp4">
+<track src="media/conference-tour.vtt" kind="captions" srclang="en" label="English" default>
+Your browser does not support the video element. Read the
+<a href="media/conference-tour.vtt">tour transcript</a>.
+</video>
+<p><small>The video has English captions. A text transcript is also available.</small></p>
+</aside>
+about.ht
